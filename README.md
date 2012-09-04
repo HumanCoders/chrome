@@ -17,6 +17,9 @@ Code source : [github.com/HumanCoders/chrome](https://github.com/HumanCoders/chr
 
 * MIT
 
+##Remerciement
+* [Thierry Le Moulec](http://news.humancoders.com/users/221-thierry-le-moulec)
+
 ##Contributing
 Please fork this repository and contribute back using pull requests.
 
