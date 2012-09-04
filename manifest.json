@@ -1,6 +1,6 @@
 {
   "name": "Human Coders News",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Vous pouvez poster une news à partir de n'importe quel site web en un clic ! ",
   "icons": { "48": "48.png","128": "128.png" },
   "background": {
